@@ -1,2 +1,2 @@
-# Leurak-Malware
-Most of Leurak's Malware
+# Leurak's Malware
+Found these on an old usb, have fun
