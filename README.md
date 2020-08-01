@@ -16,8 +16,9 @@ Please [create an issue](https://github.com/B0N3head/Leuraks-Secret-Sause/issues
 
 
 ## FILES REQUIRED TO BUILD BONZIFY
-These files are not made by me and could be copyrighted, so you have to get them on your own (altough most likely no one would care).
+These files are not made by me and could be copyrighted.
 Most of them are contained in BonziBuddy432.exe, which is commonly [available](https://archive.org/download/BonziBuddy432.7z/BonziBuddy432.7z) on the internet.
+You will need Visual Studio 2015 with the Windows XP Support for C++ package to be able to build.
 
 |    Filename     |                 Usage                 |   CRC32    | Source |
 | --------------- | ------------------------------------- | ---------- | ------ |
