@@ -1,7 +1,9 @@
 # Leurak's Malware (source code)
 Found most on an old usb, got others via other means.
+
 Please [create an issue](https://github.com/B0N3head/Leuraks-Secret-Sause/issues) if any of the samples are corrupted, protected or you think I am missing something, have fun.
-Don't come here expecting to just download memz and give it to a friend this is ment for preservation and exploration, not skids.
+
+`Don't come here expecting to just download memz and mess with someone this is ment for preservation and exploration, not skids.`
 
 |Name            |Full source there       |Buildable?                 |Working Win Versions |Non Win Versions |
 |----------------|------------------------|---------------------------|--------------------|--------------------|
