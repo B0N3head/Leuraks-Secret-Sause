@@ -5,7 +5,7 @@ Please [create an issue](https://github.com/B0N3head/Leuraks-Secret-Sause/issues
 
 `Don't come here expecting to just download memz and mess with someone, this is ment for preservation and exploration, not skids.`
 
-|Name            |Full source there       |Buildable?                 |Working Win Versions |Non Win Versions |
+|Name            |Full source there       |Buildable?                 |Working Win Versions |Not Working Win Versions |
 |----------------|------------------------|---------------------------|--------------------|--------------------|
 |Bonzify         | Yes | [How to build Bonzify](#files-required-to-build-bonzify) | xp, vista, win7| Not tested |
 |Illuminati      | Yes | Not tested, requires OpenCV2 | Not tested | Not tested |
