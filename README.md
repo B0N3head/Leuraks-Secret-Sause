@@ -5,15 +5,24 @@ Please [create an issue](https://github.com/B0N3head/Leuraks-Secret-Sause/issues
 
 `Don't come here expecting to just download memz and mess with someone, this is ment for preservation and exploration, not skids.`
 
-|Name            |Full source there       |Buildable?                 |Working Win Versions |Not Working Win Versions |
-|----------------|------------------------|---------------------------|--------------------|--------------------|
+|Name            |Full source  |Buildable                 |Working Win Versions |Not Working Win Versions |
+|----------------|-------------|---------------------------|---------------------|-------------------------|
 |Bonzify         | Yes | [How to build Bonzify](#files-required-to-build-bonzify) | xp, vista, win7| Not tested |
-|Illuminati      | Yes | Not tested, requires OpenCV2 | Not tested | Not tested |
-|MEMZ (Master)   | Yes | Not tested | Not tested | Not tested |
-|REGFuck         | Yes | Easy | Not tested | Not tested |
-|TrollRAT        | Yes | Not tested | Not tested | Not tested |
-|VineMEMZ        | Yes | Not tested |Not tested | Not tested |
->If it does not show your desired windows version in working that does not mean that it wont work, just not tested.
+|Illuminati      | Yes | Not tested, requires OpenCV2      | Not tested          | Not tested |
+|MEMZ (Master)   | Yes | Not tested                        | Not tested          | Not tested |
+|REGFuck         | Yes | Yes                               | Not tested          | Not tested |
+|TrollRAT        | Yes | Not tested                        | Not tested          | Not tested |
+|VineMEMZ        | Yes | Not tested                        | Not tested          | Not tested |
+> If your desired windows version is not labled that does not mean that it wont work, just not tested.
+
+## Readme Files
+- [Bonzify](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/README-Bonzify.md) 
+- [Illuminati](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/README-Illuminati.md)
+- [MEMZ](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/README-MEMZ.md)
+- [REGFuck](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/README-RegFuck.md)
+- [TrollRAT](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/README-TrollRAT.md)
+- [TrollRAT Roadmap](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/Roadmap-TrollRAT.md)
+- [VineMEMZ](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/README-VineMEMZ.md)
 
 ## FILES REQUIRED TO BUILD BONZIFY
 These files are not made by me and could be copyrighted.
