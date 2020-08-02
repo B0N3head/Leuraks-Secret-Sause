@@ -8,4 +8,4 @@ TrollRAT is a Remote Administration Tool (RAT) which follows a different approac
  
 I started development, because some people asked me to modify the clean version of MEMZ to be hidden in order to troll tech support scammers. So I thought about a remote controllable version of it. I then thought I should make a whole new project just for trolling which makes it easier to add new payloads without changing MEMZ base concept.
 
-If you want to know what is planned and what already works, look at the [Roadmap](https://github.com/Leurak/TrollRAT/blob/master/Roadmap.md).
+If you want to know what is planned and what already works, look at the [Roadmap](https://github.com/B0N3head/Leuraks-Secret-Sause/blob/master/ReadmeFiles/Roadmap-TrollRAT.md).
